@@ -67,8 +67,13 @@ use neural networks with multiple layers to extract features and make more compl
 
 # Machine Learning Paradigms in Depth
 ![alt text](media/ML-paradigms.png)
-## Supervised Learning (Neural Networks) ## 
-- info goes here
+## Supervised Learning  ## 
+### Neural Networks ###
+- info goes here 
+### Decision Trees ###
+- info goes here 
+### Support Vector Machines (SVM) ###
+- info goes here 
 
 ## Unsupervised Learning ## 
 - info goes here 
