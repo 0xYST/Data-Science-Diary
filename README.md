@@ -56,10 +56,12 @@ Deep reinforcement learning is commonly used in tasks such as game playing, robo
 
 ## ML vs DL  :boxing_glove: ##
 - Machine learning models are typically simpler and less complex than deep learning models. They involve the use of 
-statistical techniques to train algorithms to make predictions or decisions based on patterns in data. 
+statistical techniques to train algorithms to make predictions or decisions based on patterns in data.
+-A neural network is a subset of machine learning, and deep learning is a subset of neural networks.
 - On the other hand, deep learning models are more complex and involve the use of neural networks with multiple layers to
 process large amounts of data and extract features that are used to make predictions or decisions. 
 - Deep learning models include __**convolutional neural networks (CNNs)**__ for image and video processing, __**recurrent neural networks (RNNs)**__ for 
 sequential data processing, and __**generative adversarial networks (GANs)**__ for generating new data. 
 - In summary, machine learning models use statistical techniques to learn patterns in data and make predictions, while deep learning models 
 use neural networks with multiple layers to extract features and make more complex predictions or decisions.
+
