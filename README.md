@@ -59,7 +59,7 @@ Machine learning models are typically simpler and less complex than deep learnin
 statistical techniques to train algorithms to make predictions or decisions based on patterns in data. On the other 
 hand, deep learning models are more complex and involve the use of neural networks with multiple layers to
 process large amounts of data and extract features that are used to make predictions or decisions. Deep learning models
-include convolutional neural networks (CNNs) for image and video processing, recurrent neural networks (RNNs) for 
-sequential data processing, and generative adversarial networks (GANs) for generating new data. In summary, machine 
+include __**convolutional neural networks (CNNs)**__ for image and video processing, __**recurrent neural networks (RNNs)**__ for 
+sequential data processing, and __**generative adversarial networks (GANs)**__ for generating new data. In summary, machine 
 learning models use statistical techniques to learn patterns in data and make predictions, while deep learning models 
 use neural networks with multiple layers to extract features and make more complex predictions or decisions.
