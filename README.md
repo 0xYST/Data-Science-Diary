@@ -66,4 +66,4 @@ sequential data processing, and __**generative adversarial networks (GANs)**__ f
 use neural networks with multiple layers to extract features and make more complex predictions or decisions.
 
 # Machine Learning Paradigms in Depth
-![alt text](media/basic-understanding.png)
+![alt text](media/ML-paradigms.png)
