@@ -22,7 +22,7 @@ I created the image above to help me have a better grasp at the AI umbrella. Let
 - __**Artificial General Intelligence (AGI)**__: A hypothetical type of AI that would have the same level of intelligence 
   and general cognitive abilities as a human being.
 
-## Machine Learning Breakdown :robot:  ##
+## Machine Learning Breakdown (ML) :robot:  ##
 - __**Supervised Learning:**__ A type of machine learning where the algorithm is trained on labeled data, and the goal is to make
 predictions or classify new, unlabeled data.
 - __**Unsupervised Learning:**__ A type of machine learning where the algorithm is trained on unlabeled data, and the goal is to 
@@ -37,7 +37,7 @@ of unlabeled data to improve performance.
 - __**Deep Learning:**__ A subset of machine learning that uses neural networks with multiple layers to process complex data and 
 make more accurate predictions.
 
-## Deep Learning Breakdown :brain: ##
+## Deep Learning Breakdown (DL) :brain: ##
 - __**Convolutional Neural Networks (CNNs):**__ A type of deep learning network that is commonly used in computer 
 vision tasks, such as image classification, object detection, and segmentation.
 - __**Recurrent Neural Networks (RNNs):**__ A type of deep learning network that is commonly used in natural language 
