@@ -3,5 +3,5 @@ This repository is a place for me to experiment, document, take notes, and just 
 machine learning models or deep learning models that I find interesting.
 
 # Introduction
-I created the image below to help me have a better grasp at the AI umbrella. 
 ![alt text](media/basic-understanding.png)
+I created the image above to help me have a better grasp at the AI umbrella. 
