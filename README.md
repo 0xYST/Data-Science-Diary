@@ -76,7 +76,17 @@ use neural networks with multiple layers to extract features and make more compl
 - info goes here 
 
 ## Unsupervised Learning ## 
+### Clustering ###
+- info goes here 
+### Principal Component Analysis ###
+- info goes here 
+### Generative Models ###
 - info goes here 
 
 ## Reinforcement Learning ## 
+### Q-Learning ###
+- info goes here 
+### Policy Gradient Methods ###
+- info goes here 
+### Actor-Critic Methods ###
 - info goes here 
