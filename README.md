@@ -65,4 +65,5 @@ sequential data processing, and __**generative adversarial networks (GANs)**__ f
 - In summary, machine learning models use statistical techniques to learn patterns in data and make predictions, while deep learning models 
 use neural networks with multiple layers to extract features and make more complex predictions or decisions.
 
-# Machine Learning Paradigms in depth
+# Machine Learning Paradigms in Depth
+![alt text](media/basic-understanding.png)
