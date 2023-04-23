@@ -7,7 +7,7 @@ machine learning models or deep learning models that I find interesting.
 
 I created the image above to help me have a better grasp at the AI umbrella. Let's break down each section listed 
 
-## AI Breakdown :bulb: ##
+## AI Breakdown :computer: ##
 - __**Machine Learning (ML)**__: A type of AI that involves training algorithms to learn patterns in data and 
   make predictions or decisions based on that data.
 - __**Natural Language Processing (NLP)**__: A branch of AI that focuses on enabling machines to understand, 
@@ -22,7 +22,7 @@ I created the image above to help me have a better grasp at the AI umbrella. Let
 - __**Artificial General Intelligence (AGI)**__: A hypothetical type of AI that would have the same level of intelligence 
   and general cognitive abilities as a human being.
 
-## Machine Learning Breakdown :bulb:  ##
+## Machine Learning Breakdown :robot:  ##
 - __**Supervised Learning:**__ A type of machine learning where the algorithm is trained on labeled data, and the goal is to make
 predictions or classify new, unlabeled data.
 - __**Unsupervised Learning:**__ A type of machine learning where the algorithm is trained on unlabeled data, and the goal is to 
@@ -37,7 +37,7 @@ of unlabeled data to improve performance.
 - __**Deep Learning:**__ A subset of machine learning that uses neural networks with multiple layers to process complex data and 
 make more accurate predictions.
 
-## Deep Learning Breakdown :bulb: ##
+## Deep Learning Breakdown :brain: ##
 - __**Convolutional Neural Networks (CNNs):**__ A type of deep learning network that is commonly used in computer 
 vision tasks, such as image classification, object detection, and segmentation.
 - __**Recurrent Neural Networks (RNNs):**__ A type of deep learning network that is commonly used in natural language 
@@ -54,4 +54,4 @@ reduction.
 neural networks to enable agents to learn from experience and make decisions based on rewards or penalties.
 Deep reinforcement learning is commonly used in tasks such as game playing, robotics, and autonomous driving.
 
-## ML vs DL  :bulb: ##
+## ML vs DL  :boxing_glove: ##
