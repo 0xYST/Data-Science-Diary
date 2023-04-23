@@ -67,11 +67,11 @@ use neural networks with multiple layers to extract features and make more compl
 
 # Machine Learning Paradigms in Depth
 ![alt text](media/ML-paradigms.png)
-## Supervised Learning (Neural Networks)
+## Supervised Learning (Neural Networks) ## 
 - info goes here
 
-## Unsupervised Learning
+## Unsupervised Learning ## 
 - info goes here 
 
-## Reinforcement Learning
+## Reinforcement Learning ## 
 - info goes here 
