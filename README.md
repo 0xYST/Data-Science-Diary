@@ -1,4 +1,4 @@
-# Welcome to my Data Science Journey.
+# Welcome to our Data Science Journey.
 This repository is a place for Jason & Jordan to experiment, document, take notes, and just have fun with any 
 machine learning models or deep learning models that we find interesting.
 
