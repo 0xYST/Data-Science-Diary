@@ -92,3 +92,8 @@ use neural networks with multiple layers to extract features and make more compl
 - info goes here 
 
 # The Transformer Architecture in Deep Learning Neural Networks
+The transformer architecture is a type of deep learning model that was introduced in a paper by Vaswani et al. in 2017. The transformer was designed specifically for natural language processing tasks, such as language translation and text summarization, and has since become a popular architecture for a wide range of sequence modeling tasks.
+
+The transformer architecture is based on the self-attention mechanism, which allows the model to selectively attend to different parts of the input sequence when making predictions. Self-attention allows the model to capture long-range dependencies in the input sequence, which is important for many natural language processing tasks.
+
+The transformer architecture consists of an encoder and a decoder. The encoder takes in an input sequence of tokens, such as words or characters, and generates a set of hidden representations that capture the semantics of the input sequence. The decoder takes in the encoder outputs and generates an output sequence of tokens that corresponds to the desired output.
