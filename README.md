@@ -90,3 +90,5 @@ use neural networks with multiple layers to extract features and make more compl
 - info goes here 
 ### Actor-Critic Methods ###
 - info goes here 
+
+# The Transformer Architecture in Deep Learning Neural Networks
