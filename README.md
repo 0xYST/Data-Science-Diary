@@ -1,5 +1,5 @@
 # Welcome to my Data Science Journey.
-This repository is a place for Jason & Jordan to experiment, document, take notes, and just have fun with any 
+This repository is a place for me to experiment, document, take notes, and just have fun with any 
 machine learning models or deep learning models that we find interesting.
 
 # A General Introduction
@@ -64,36 +64,3 @@ process large amounts of data and extract features that are used to make predict
 sequential data processing, and __**generative adversarial networks (GANs)**__ for generating new data. 
 - In summary, machine learning models use statistical techniques to learn patterns in data and make predictions, while deep learning models 
 use neural networks with multiple layers to extract features and make more complex predictions or decisions.
-
-# Machine Learning Paradigms in Depth
-![alt text](media/ML-paradigms.png)
-## Supervised Learning  ## 
-### Neural Networks ###
-- info goes here 
-### Decision Trees ###
-- info goes here 
-### Support Vector Machines (SVM) ###
-- info goes here 
-
-## Unsupervised Learning ## 
-### Clustering ###
-- info goes here 
-### Principal Component Analysis ###
-- info goes here 
-### Generative Models ###
-- info goes here 
-
-## Reinforcement Learning ## 
-### Q-Learning ###
-- info goes here 
-### Policy Gradient Methods ###
-- info goes here 
-### Actor-Critic Methods ###
-- info goes here 
-
-# The Transformer Architecture in Deep Learning Neural Networks
-The transformer architecture is a type of deep learning model that was introduced in a paper by Vaswani et al. in 2017. The transformer was designed specifically for natural language processing tasks, such as language translation and text summarization, and has since become a popular architecture for a wide range of sequence modeling tasks.
-
-The transformer architecture is based on the self-attention mechanism, which allows the model to selectively attend to different parts of the input sequence when making predictions. Self-attention allows the model to capture long-range dependencies in the input sequence, which is important for many natural language processing tasks.
-
-The transformer architecture consists of an encoder and a decoder. The encoder takes in an input sequence of tokens, such as words or characters, and generates a set of hidden representations that capture the semantics of the input sequence. The decoder takes in the encoder outputs and generates an output sequence of tokens that corresponds to the desired output.
